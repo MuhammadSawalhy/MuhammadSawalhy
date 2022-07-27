@@ -12,6 +12,16 @@
 
 > طالب للهندسة الكهربية، يحب البرمجة بل مولع بما فيها من جو المغامرة والمنافسة.
 
+<div align=center>
+
+![https://codeforces.com/profile/ms2052001](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![linkedin.com/in/Muhammadsawalhy/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![twitter.com/muhammad2052001](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![https://t.me/muhammad2052001](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![MuhammadSawalhy@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+</div
+
 ### بدايتي
 
 كانت Visual Basic حينما أجبرت على تعلمها في الصف الثالث الإعدادي عندما كنت في السادسة عشر من عمري تقريبا، بدأت عمل آلة حاسبة دون معرفة البرمجة كائنية التوجه (ب.ك.ت OOP)، ومضيت في ذلك أياما وأياما طوالا، أحاول جاهدا أن أحاكي عمل الآلة الحاسبة الموجودة على نظام Win7، أبرمج بطريقة بدائية راميا بعض المتغيرات هنا وهناك دون تغليفها والعمل بمبدأ الـ encapsulation. كانت حينها باللغة الإنجليزية، نما لدي شعور الانتماء لأمتي والشعور بأهمية اللغة العربية فجعلتها برموز عربية فإني كنت أدرس الرياضيات باللغة العربية في التعليم ما قبل الجامعي. أضفت لها كثير من الميزات مثل حساب الفرق بين تاريخين لمعرفة العمر مثلا، وإجراء عملية جمع (سيجما)، وكان من أهم الأجزاء والذي كان مشروعا لم أتصور أن يصير همي الشاغل وأن يستمر معي إلى الآن، وأظنه سيرافقني طويلا، هو الرسم البياني للدوال الرياضية الصريحة (explicit function).
@@ -26,6 +36,6 @@
 
 ### الآن
 
-أنا الآن مشتت بين الكلية وتعلم <span dir=ltr>C/C++</span>، التعمق في linux وخباياه، التبحر أكثر في عالم تطوير المواقع وما به من كم هائل من التقنيات والطرق المتشعبة، وكانت قد راودتني نفسي أيضا بتعلم الذكاء الاصطناعي واللغة اليافعة الشابة Rust، أسأل الله أن يزيدنا من علمه وأن يستعملنا وألا يستبدلنا.
+أنا الآن مشتت بين الكلية وتعلم <span dir=ltr>C/C++</span>، التعمق في linux وخباياه، التبحر أكثر في عالم تطوير المواقع وما به من كم هائل من التقنيات والطرق المتشعبة، وكانت قد راودتني نفسي أيضا بتعلم الذكاء الاصطناعي واللغة اليافعة الشابة Rust، أسأل الله أن يزيدنا من علمه وأن يستعملنا وألا يستبدل بنا.
 
 <div dir=ltr>
