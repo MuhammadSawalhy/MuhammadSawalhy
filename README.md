@@ -3,7 +3,7 @@
 
 <div align=center>
 
-<img src="https://user-images.githubusercontent.com/42011920/113520880-3e6e9680-9596-11eb-9351-00d718c26fdc.png" alt="وقل ربي زدني علما" height="300px" />
+<img src="https://user-images.githubusercontent.com/42011920/113520880-3e6e9680-9596-11eb-9351-00d718c26fdc.png" alt="وقل ربي زدني علما" max-height="250px" />
 
   
 ##  👨‍💻 محمد بن سمير الصوالحي
